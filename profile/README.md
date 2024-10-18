@@ -6,7 +6,7 @@ Somos una organización especializada en el desarrollo de soluciones web persona
 
 ## ¿Quiénes somos?
 
-Somos un equipo de desarrolladores y practicantes apasionados por la tecnología, liderados por [Antonio](https://github.com/27te), un desarrollador web con más de 2 años de experiencia en el sector. Nos especializamos en el uso de herramientas modernas como:
+Somos un equipo de desarrolladores apasionados por la tecnología, liderados por [Antonio](https://github.com/27te), un desarrollador web con más de 2 años de experiencia en el sector. Nos especializamos en el uso de herramientas modernas como:
 
 - **JavaScript / TypeScript**
 - **React, Next.js**
@@ -32,10 +32,10 @@ Ofrecemos soluciones completas de desarrollo web, desde interfaces intuitivas ha
 - **Despliegue y mantenimiento**  
   Usamos plataformas como Vercel y Render para desplegar y mantener proyectos de manera eficiente.
 
-## Proyectos destacados
+<!--## Proyectos destacados-->
 
-- **[Nombre del Proyecto 1]**: Breve descripción del proyecto.
-- **[Nombre del Proyecto 2]**: Breve descripción del proyecto.
+<!--- **[Nombre del Proyecto 1]**: Breve descripción del proyecto.-->
+<!--- **[Nombre del Proyecto 2]**: Breve descripción del proyecto.-->
 
 ## ¿Cómo trabajar con nosotros?
 
@@ -44,10 +44,6 @@ Si estás interesado en colaborar o tienes alguna pregunta, puedes ponerte en co
 - [LinkedIn](https://linkedin.com/in/mblcdev)
 - [GitHub](https://github.com/27te)
 - [Instagram](https://www.instagram.com/mblc.dev)
-
-## Contribuciones
-
-Si deseas contribuir a nuestros proyectos, ¡siéntete libre de hacer un fork o abrir un issue! Revisamos todas las contribuciones y apreciamos el trabajo en equipo.
 
 ---
 
