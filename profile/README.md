@@ -18,19 +18,10 @@ Somos un equipo de desarrolladores apasionados por la tecnología, liderados por
 
 ## ¿Qué hacemos?
 
-Ofrecemos soluciones completas de desarrollo web, desde interfaces intuitivas hasta sistemas de backend robustos. Algunos de los servicios que brindamos incluyen:
-
 - **Desarrollo de sitios web personalizados**  
-  Creamos sitios web únicos y adaptados a las necesidades de nuestros clientes.
-  
 - **Aplicaciones web**  
-  Desarrollamos aplicaciones modernas, escalables y rápidas con tecnologías como React y Node.js.
-  
 - **Sistemas de administración**  
-  Desarrollamos sistemas de administración personalizados utilizando PHP y bases de datos relacionales.
-  
 - **Despliegue y mantenimiento**  
-  Usamos plataformas como Vercel y Render para desplegar y mantener proyectos de manera eficiente.
 
 <!--## Proyectos destacados-->
 
@@ -41,7 +32,7 @@ Ofrecemos soluciones completas de desarrollo web, desde interfaces intuitivas ha
 
 Si estás interesado en colaborar o tienes alguna pregunta, puedes ponerte en contacto con nosotros a través de nuestros perfiles:
 
-- [LinkedIn](https://linkedin.com/in/mblcdev)
+- [LinkedIn](https://linkedin.com/company/mblcdev)
 - [GitHub](https://github.com/27te)
 - [Instagram](https://www.instagram.com/mblc.dev)
 
