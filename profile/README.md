@@ -6,15 +6,7 @@ Somos una organización especializada en el desarrollo de soluciones web persona
 
 ## ¿Quiénes somos?
 
-Somos un equipo de desarrolladores apasionados por la tecnología, liderados por [Antonio](https://github.com/27te), un desarrollador web con más de 2 años de experiencia en el sector. Nos especializamos en el uso de herramientas modernas como:
-
-- **JavaScript / TypeScript**
-- **React, Next.js**
-- **Node.js, Express**
-- **Astro**
-- **Tailwind CSS**
-- **MySQL / PostgreSQL**
-- **PHP**
+Somos un agencia de desarrollo de software conformada por un equipo profesional apasionados por nuestro trabajo y brindando una nueva vision a lo ya estructurado.
 
 ## ¿Qué hacemos?
 
@@ -33,6 +25,7 @@ Somos un equipo de desarrolladores apasionados por la tecnología, liderados por
 Si estás interesado en colaborar o tienes alguna pregunta, puedes ponerte en contacto con nosotros a través de nuestros perfiles:
 
 - [LinkedIn](https://linkedin.com/company/mblcdev)
+- [GitHub](https://github.com/mblcdev)
 - [GitHub](https://github.com/27te)
 - [Instagram](https://www.instagram.com/mblc.dev)
 
